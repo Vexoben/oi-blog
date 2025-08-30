@@ -1,0 +1,28 @@
+---
+layout: default
+---
+    {% if site.data.site.uiux.meng == true %}
+    {% if site.data.meng.head_card.switch == true %}
+            {% assign num = site.data.meng.head_card.offset_level %}
+            {% for i in (1..num) %}
+                <div class="head_card-offset"></div>
+            {% endfor %}
+    {% endif %}
+    {% endif %}
+{% include content/page_content.html %}
+{% include content/component/imgboxed.html %}
+
+<div id="gitmentContainer"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+    owner: 'Vexoben',
+    repo: 'Vexoben.github.io',
+    oauth: {
+        client_id: 'e918a6c4d8cc2054f897',
+        client_secret: 'fee4cd6c53fdb15a16a9f650b1a323ba6fc675b2',
+    },
+});
+gitment.render('gitmentContainer');
+</script>				 

@@ -1,0 +1,78 @@
+head: 
+   favicon: "https://vexoben.github.io/assets/images/touch/chrome-touch-icon-192x192.jpg" #  the favicon
+   high_res_favicon: "https://vexoben.github.io/assets/images/touch/chrome-touch-icon-192x192.jpg" #  the favicon using high quality format
+   apple_touch_icon: "https://vexoben.github.io/assets/images/touch/chrome-touch-icon-192x192.jpg" # the iOS Home button icon
+   keywords: "blog jekyll mdui theme" #  the site keywords
+
+uiux:
+   android_chrome_color: "#eeeeee" #  the color of the Chrome address bar
+   nprogress_color: "#29d" #  the color of the top loading progress bar
+   nprogress_buffer: 200 # the top loading progress bar buffers
+   meng: true # meng
+
+background: 
+   purecolor: "#eeeeee" # the background color
+
+img: 
+   avatar: "https://vexoben.github.io/assets/images/touch/chrome-touch-icon-192x192.jpg" # your avatar
+
+card: 
+   card_shadow: 1 # card shadow (0-24), 0 is not displayed
+   card_hoverable: false # When the hover to deepen the shadow
+
+many_authors: false
+
+sns_share: # SNS Share Switch
+   twitter: true
+   facebook: false
+   googleplus: false
+   weibo: true
+   linkedin: false
+   qq: true
+   telegram: true
+  
+comment:
+  used: "" # disqus,livere,gitment,valine
+  # disqus config
+  disqus_shortname: "Vexoben" # Your disqus 
+  disqus_button: true # disqus load button
+  disqus_proxy: false # # disqus proxy(Do not use)
+  disqus_proxy_url: "" # (Do not use)
+  disqus_api_key: "" # (Do not use)
+  # livere config
+  livere_type: 'city'
+  livere_data_uid: ''
+  # gitment config
+  owner: "Vexoben"
+  repo: "https://github.com/Vexoben/Vexoben.github.io"
+  client_id: "e918a6c4d8cc2054f897"
+  client_secret: "fee4cd6c53fdb15a16a9f650b1a323ba6fc675b2"
+  #valine config
+  valine_notify: true #mail notifier
+  valine_verify: true #validation code
+  valine_app_id: ''
+  valine_app_key: ''
+  valine_placeholder: "ヾﾉ≧∀≦)o来啊，快活啊!"
+
+prism:
+  themes: prism-okaidia
+  components: cpp
+    - bash 
+  plugins: 
+
+mathjax: true
+
+google_analytics: ""  # google analytics code
+
+baidu_site_verification: ""  # baidu site verification code
+google_site_verification: ""  # google search console verification code
+
+baidu_auto_push: false  # if you used baidu auto push to commit links
+
+lang: ""  # lang
+
+deploy: "" # if you used coding pages
+
+custom_css: "" # Use the assets/css/customCss.css
+
+custom_js: "" # Use the assets/js/customJS.js

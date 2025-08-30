@@ -1,0 +1,103 @@
+title:  # Meng title
+  switch: true # Meng title switch
+  visible: "(*´∇｀*) 被发现啦~" # State is visible text
+  hidden:  "(つェ⊂)看不到我~" # State is hidden text
+  with_default_title: true # with default title
+  reset_time: 1000 # If state is visible , reset default title times(ms)
+
+cursor: # Meng cursor
+  switch: false # Meng cursor switch
+  auto_url: "https://ooo.0o0.ooo/2017/06/12/593ea1901c930.png" # State is auto style
+  pointer_url: "https://ooo.0o0.ooo/2017/06/12/593ea3612fd77.png" # State is pointer style
+
+console: # Meng console info
+  switch: false # Meng console info switch
+  theme_info: true # output theme info
+  text: "Copyright © 2017 Jekyll-Theme-MDUI" # text
+  color: "#fff" # text color
+  background: "#448aff" # background color
+
+header: # Meng header color + theme-color
+  switch: true
+
+background: # Meng background
+  switch: true
+  background_img: "Vexoben.github.io/assets/images/banner.jpg"
+  transparent_header: true
+  transparent_footer: true
+  text_color: '#000'
+
+card: # Meng card
+  switch: true
+  background_color: 'rgba(255, 255, 255, 0.5)'
+  card_img_opacity: '0.8'
+
+live2d: # live2d ,see https://github.com/EYHN/hexo-helper-live2d
+  switch: false
+  model: "/assets/live2d/koharu/koharu.model.json" # model.json path
+  drag: true # is drag ?
+  in_mobile: false
+  width: 130 # canvas width
+  height: 190 # canvas height
+  bottom: 100 # canvas bottom
+  leftOrRight: "right" # left or right
+  offset: 10 # offset
+
+#!!!!do not use!!!!
+animation: # animate.css, see https://github.com/daneden/animate.css
+  switch: false # switch on and you can see the animation,!!!!do not use!!!!
+#!!!!do not use!!!!
+
+music_player:
+  switch: false
+  player: "" #cplayer or aplayer
+  button_color: "#1abc9c"
+  music:
+    - title: '下雨了'
+      author: '薛之谦'
+      url: 'https://vexoben.github.io/music/下雨了.mp3'
+      pic: 'https://vexoben.github.io/music/下雨了.jpg'
+    - title: 'Scarborough Fair'
+      author: 'Sarch Brightman'
+      url: 'https://vexoben.github.io/music/Scarborough Fair.mp3'
+      pic: 'https://vexoben.github.io/music/Scarborough Fair.jpg'
+    - title: 'Trouble Is A Friend'
+      author: 'Lenka'
+      url: 'https://vexoben.github.io/music/Trouble Is A Friend.mp3'
+      pic: 'https://vexoben.github.io/music/Trouble Is A Friend.jpg'
+    - title: '东京不太热'
+      author: '封茗囧菌'
+      url: 'https://vexoben.github.io/music/东京不太热.mp3'
+      pic: 'https://vexoben.github.io/music/东京不太热.jpg'
+    - title: '风缘'
+      author: '双笙'
+      url: 'https://vexoben.github.io/music/风缘.mp3'
+      pic: 'https://vexoben.github.io/music/风缘.jpg'
+    - title: '意外'
+      author: '薛之谦'
+      url: 'https://vexoben.github.io/music/意外.mp3'
+      pic: 'https://vexoben.github.io/music/意外.jpg'
+    - title: '深海少女'
+      author: 'のぶなが'
+      url: 'https://vexoben.github.io/music/深海少女.mp3'
+      pic: 'https://vexoben.github.io/music/深海少女.jpg'
+    - title: '月出'
+      author: '双笙'
+      url: 'https://vexoben.github.io/music/月出.mp3'
+      pic: 'https://vexoben.github.io/music/月出.jpg'
+    - title: '我的一个道姑朋友'
+      author: '双笙'
+      url: 'https://vexoben.github.io/music/我的一个道姑朋友.mp3'
+      pic: 'https://vexoben.github.io/music/我的一个道姑朋友.jpg'
+    - title: '下完这场雨'
+      author: '后弦'
+      url: 'https://vexoben.github.io/music/下完这场雨.mp3'
+      pic: 'https://vexoben.github.io/music/下完这场雨.jpg'
+
+
+head_card:
+  switch: false
+  left_img: ""
+  left_text: ""
+  right_img: ""
+  offset_level: 2
