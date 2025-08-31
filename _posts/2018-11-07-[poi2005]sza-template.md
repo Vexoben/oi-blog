@@ -4,7 +4,7 @@ title: POI2005 SZA-template
 date: 2018-11-07 17:20:04 +0800
 categories: training
 tags: KMP 字符串
-img: https://vexoben.github.io/assets/images/Blog2/2018-11-07-[poi2005]sza-template.png
+img: assets/images/Blog2/2018-11-07-[poi2005]sza-template.png
 ---
 
 ## **题意**

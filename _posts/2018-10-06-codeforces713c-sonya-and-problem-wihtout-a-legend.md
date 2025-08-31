@@ -4,7 +4,7 @@ title: codeforces713C Sonya and Problem Wihtout a Legend
 date: 2018-09-16 15:56:25 +0800
 categories: training
 tags: 
-img: https://vexoben.github.io/assets/images/Blog2/2018-10-06-codeforces713c-sonya-and-problem-wihtout-a-legend.png
+img: assets/images/Blog2/2018-10-06-codeforces713c-sonya-and-problem-wihtout-a-legend.png
 ---
 
 题目链接： [codeforces713C Sonya and Problem Wihtout a Legend][1]
@@ -85,6 +85,6 @@ int main() {
 
 [1]: http://codeforces.com/contest/713/problem/C
 
-[2]: https://vexoben.github.io/assets/images/Blog2/2018-10-06-codeforces713c-sonya-and-problem-wihtout-a-legend(2).png
+[2]: assets/images/Blog2/2018-10-06-codeforces713c-sonya-and-problem-wihtout-a-legend(2).png
 
-[3]: https://vexoben.github.io/assets/images/Blog2/2018-10-06-codeforces713c-sonya-and-problem-wihtout-a-legend(3).png
+[3]: assets/images/Blog2/2018-10-06-codeforces713c-sonya-and-problem-wihtout-a-legend(3).png

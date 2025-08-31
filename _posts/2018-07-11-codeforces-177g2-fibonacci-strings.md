@@ -4,7 +4,7 @@ title: Codeforces 177G2 Fibonacci Strings
 date: 2018-07-11 15:50:22 +0800
 categories: training
 tags: 字符串 矩阵快速幂
-img: https://vexoben.github.io/assets/images/Blog/2018-07-11-codeforces-177g2-fibonacci-strings.JPG
+img: assets/images/Blog/2018-07-11-codeforces-177g2-fibonacci-strings.JPG
 ---
 
 [codeforces177G2 Fibonacci Strings][5]
@@ -135,4 +135,4 @@ int main() {
 ```
 
 [5]:http://codeforces.com/contest/177/problem/G2
-[6]:https://vexoben.github.io/assets/images/Blog/2018-07-11-codeforces-177g2-fibonacci-strings(2).JPG
+[6]:assets/images/Blog/2018-07-11-codeforces-177g2-fibonacci-strings(2).JPG

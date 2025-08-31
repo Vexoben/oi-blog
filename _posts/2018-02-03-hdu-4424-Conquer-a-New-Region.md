@@ -4,7 +4,7 @@ title: HDU 4424 Conquer a New Region
 date: 2018-02-03 18:38:08 +0800
 categories: training
 tags: 数据结构
-img: https://vexoben.github.io/assets/images/Blog/HDU-4424-Conquer-a-New-Region.JPG
+img: assets/images/Blog/HDU-4424-Conquer-a-New-Region.JPG
 ---
 
 题目链接：[http://acm.hdu.edu.cn/showproblem.php?pid=4424][1]

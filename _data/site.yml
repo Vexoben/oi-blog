@@ -1,7 +1,7 @@
 head: 
-   favicon: "https://vexoben.github.io/assets/images/touch/chrome-touch-icon-192x192.jpg" #  the favicon
-   high_res_favicon: "https://vexoben.github.io/assets/images/touch/chrome-touch-icon-192x192.jpg" #  the favicon using high quality format
-   apple_touch_icon: "https://vexoben.github.io/assets/images/touch/chrome-touch-icon-192x192.jpg" # the iOS Home button icon
+   favicon: "assets/images/touch/chrome-touch-icon-192x192.jpg" #  the favicon
+   high_res_favicon: "assets/images/touch/chrome-touch-icon-192x192.jpg" #  the favicon using high quality format
+   apple_touch_icon: "assets/images/touch/chrome-touch-icon-192x192.jpg" # the iOS Home button icon
    keywords: "blog jekyll mdui theme" #  the site keywords
 
 uiux:
@@ -14,7 +14,7 @@ background:
    purecolor: "#eeeeee" # the background color
 
 img: 
-   avatar: "https://vexoben.github.io/assets/images/touch/chrome-touch-icon-192x192.jpg" # your avatar
+   avatar: "assets/images/touch/chrome-touch-icon-192x192.jpg" # your avatar
 
 card: 
    card_shadow: 1 # card shadow (0-24), 0 is not displayed

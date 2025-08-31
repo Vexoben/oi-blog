@@ -4,7 +4,7 @@ title: SGU189 Perl-like Substr
 date: 2018-02-08 16:14:34 +0800
 categories: training
 tags: 模拟
-img: https://vexoben.github.io/assets/images/Blog/2018-02-08-sgu189-perl-like-substr.JPG
+img: assets/images/Blog/2018-02-08-sgu189-perl-like-substr.JPG
 ---
 
 题目链接：[http://acm.sgu.ru/problem.php?contest=0&problem=189][1]

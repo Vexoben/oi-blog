@@ -4,7 +4,7 @@ title: Codeforces848C Goodbye Souvenir
 date: 2018-04-17 18:37:35 +0800
 categories: training
 tags: 数据结构 cdq分治 
-img: https://vexoben.github.io/assets/images/Blog/2018-04-17-Codeforces848C-Goodbye-Souvenir.JPG
+img: assets/images/Blog/2018-04-17-Codeforces848C-Goodbye-Souvenir.JPG
 ---
 
 题目链接：[http://codeforces.com/problemset/problem/848/C][1]

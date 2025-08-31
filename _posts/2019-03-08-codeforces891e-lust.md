@@ -4,7 +4,7 @@ title: Codeforces891E Lust
 date: 2019-03-08 13:08:26 +0800
 categories: training
 tags: 生成函数 组合数学
-img: https://vexoben.github.io/assets/images/Blog2/2019-03-08-codeforces891e-lust.png
+img: assets/images/Blog2/2019-03-08-codeforces891e-lust.png
 ---
 
 题目链接:[CF891E Lust][100]

@@ -4,7 +4,7 @@ title: codeforces718C Sasha and Array
 date: 2018-09-16 17:40:08 +0800
 categories: training
 tags: 矩阵快速幂 线段树及可持久化
-img: https://vexoben.github.io/assets/images/Blog2/2018-10-06-codeforces718c-sasha-and-array.png
+img: assets/images/Blog2/2018-10-06-codeforces718c-sasha-and-array.png
 ---
 
 题目链接: [codeforces718C Sasha and Array][1]

@@ -4,7 +4,7 @@ title: CodeForces367C Sereja and the Arrangement of Numbers
 date: 2018-02-10 20:50:12 +0800
 categories: training
 tags: 脑洞题 图论 欧拉路径
-img: https://vexoben.github.io/assets/images/Blog/2018-02-10-codeforces367c-sereja-and-the-arrangement-of-numbers.JPG
+img: assets/images/Blog/2018-02-10-codeforces367c-sereja-and-the-arrangement-of-numbers.JPG
 ---
 
 题目链接：[http://codeforces.com/problemset/problem/367/C][1]

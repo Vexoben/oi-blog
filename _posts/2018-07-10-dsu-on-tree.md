@@ -4,7 +4,7 @@ title: Dsu on Tree
 date: 2018-07-10 19:40:21 +0800
 categories: notes
 tags: dsu 
-img: https://vexoben.github.io/assets/images/Blog/2018-07-10-dsu-on-tree.JPG
+img: assets/images/Blog/2018-07-10-dsu-on-tree.JPG
 ---
 
 dsu on tree,即树上启发式合并，是一种离线算法，结合树链剖分，可以处理与子树有关的许多询问。
