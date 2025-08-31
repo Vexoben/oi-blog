@@ -1,12 +1,12 @@
 - name: technology
   img: https://ooo.0o0.ooo/2017/05/27/5929234e802ca.jpg
 - name: training
-  img: https://raw.githubusercontent.com/Vexoben/Vexoben.github.io/master/assets/images/category/training.jpg
+  img: assets/images/category/training.jpg
 - name: contest
-  img: https://raw.githubusercontent.com/Vexoben/Vexoben.github.io/master/assets/images/category/contest.jpg
+  img: assets/images/category/contest.jpg
 - name: notes
-  img: https://raw.githubusercontent.com/Vexoben/Vexoben.github.io/master/assets/images/category/notes.jpg
+  img: assets/images/category/notes.jpg
 - name: essays
-  img: https://raw.githubusercontent.com/Vexoben/Vexoben.github.io/master/assets/images/category/essays.jpg
+  img: assets/images/category/essays.jpg
 - name: template
-  img: https://raw.githubusercontent.com/Vexoben/Vexoben.github.io/master/assets/images/category/template.jpg
+  img: assets/images/category/template.jpg
