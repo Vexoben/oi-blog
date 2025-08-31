@@ -4,7 +4,7 @@ title: POJ1475 Pushing Boxes
 date: 2018-02-04 18:49:08 +0800
 categories: training
 tags: 搜索 图论
-img: assets/images/Blog/POJ-1475-Pushing-Boxes.JPG
+img: https://vexoben.github.io/oi-blog/assets/images/Blog/POJ-1475-Pushing-Boxes.JPG
 ---
 
 题目链接：[http://poj.org/problem?id=1475][1]

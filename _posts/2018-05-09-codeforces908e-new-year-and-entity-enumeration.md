@@ -4,7 +4,7 @@ title: Codeforces908E New Year and Entity Enumeration
 date: 2018-05-09 21:26:49 +0800
 categories: training
 tags: 组合数学
-img: assets/images/Blog/2018-05-09-codeforces908e-new-year-and-entity-enumeration.JPG
+img: https://vexoben.github.io/oi-blog/assets/images/Blog/2018-05-09-codeforces908e-new-year-and-entity-enumeration.JPG
 ---
 
 题目链接：[http://codeforces.com/contest/908/problem/E][1]

@@ -4,7 +4,7 @@ title: 2015 Multi-University Contest 4
 date: 2018-04-19 18:27:22 +0800
 categories: contest
 tags: 脑洞题 模拟 构造 基环树 DP 数据结构 树链剖分 LCT
-img: assets/images/Blog/2015-Multi-University-Contest-4.JPG
+img: https://vexoben.github.io/oi-blog/assets/images/Blog/2015-Multi-University-Contest-4.JPG
 ---
 
 今天World Final。蒟蒻连去看直播的资格都没有啊只好来VP多校了。
@@ -1439,12 +1439,12 @@ int main() {
 ```
 
 [1]: http://acm.hdu.edu.cn/showproblem.php?pid=5327
-[2]: assets/images/Blog/2015-Multi-University-Contest-4(2).JPG
-[3]: assets/images/Blog/2015-Multi-University-Contest-4(3).JPG
-[4]: assets/images/Blog/2015-Multi-University-Contest-4(4).JPG
-[5]: assets/images/Blog/2015-Multi-University-Contest-4(5).JPG
-[6]: assets/images/Blog/2015-Multi-University-Contest-4(6).JPG
-[7]: assets/images/Blog/2015-Multi-University-Contest-4(7).JPG
-[8]: assets/images/Blog/2015-Multi-University-Contest-4(8).JPG
-[9]: assets/images/Blog/2015-Multi-University-Contest-4(9).JPG
-[10]: assets/images/Blog/2015-Multi-University-Contest-4(10).JPG
+[2]: https://vexoben.github.io/oi-blog/assets/images/Blog/2015-Multi-University-Contest-4(2).JPG
+[3]: https://vexoben.github.io/oi-blog/assets/images/Blog/2015-Multi-University-Contest-4(3).JPG
+[4]: https://vexoben.github.io/oi-blog/assets/images/Blog/2015-Multi-University-Contest-4(4).JPG
+[5]: https://vexoben.github.io/oi-blog/assets/images/Blog/2015-Multi-University-Contest-4(5).JPG
+[6]: https://vexoben.github.io/oi-blog/assets/images/Blog/2015-Multi-University-Contest-4(6).JPG
+[7]: https://vexoben.github.io/oi-blog/assets/images/Blog/2015-Multi-University-Contest-4(7).JPG
+[8]: https://vexoben.github.io/oi-blog/assets/images/Blog/2015-Multi-University-Contest-4(8).JPG
+[9]: https://vexoben.github.io/oi-blog/assets/images/Blog/2015-Multi-University-Contest-4(9).JPG
+[10]: https://vexoben.github.io/oi-blog/assets/images/Blog/2015-Multi-University-Contest-4(10).JPG

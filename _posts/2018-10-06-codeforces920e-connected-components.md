@@ -4,7 +4,7 @@ title: codeforces920E Connected Components?
 date: 2018-09-16 17:51:00 +0800
 categories: training
 tags: 图论 补图
-img: assets/images/Blog2/2018-10-06-codeforces920e-connected-components.png
+img: https://vexoben.github.io/oi-blog/assets/images/Blog2/2018-10-06-codeforces920e-connected-components.png
 ---
 
 题目链接:[codeforces920E Connected Components?][1]

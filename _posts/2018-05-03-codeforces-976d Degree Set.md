@@ -4,7 +4,7 @@ title: Codeforces976D Degree Set
 date: 2018-05-03 20:29:28 +0800
 categories: training
 tags: 构造
-img: assets/images/Blog/2018-05-03-codeforces-976d Degree Set.JPG
+img: https://vexoben.github.io/oi-blog/assets/images/Blog/2018-05-03-codeforces-976d Degree Set.JPG
 ---
 
 题目链接：[http://codeforces.com/problemset/problem/976/D][1]

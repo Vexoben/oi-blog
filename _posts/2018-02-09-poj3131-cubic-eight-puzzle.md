@@ -4,7 +4,7 @@ title: POJ3131 Cubic Eight-Puzzle
 date: 2018-02-09 16:19:49 +0800
 categories: training
 tags: 搜索
-img: assets/images/Blog/2018-02-09-poj3131-cubic-eight-puzzle.JPG
+img: https://vexoben.github.io/oi-blog/assets/images/Blog/2018-02-09-poj3131-cubic-eight-puzzle.JPG
 ---
 
 题目链接：[http://poj.org/problem?id=3131][1]

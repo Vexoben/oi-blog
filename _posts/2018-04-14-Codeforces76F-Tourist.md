@@ -4,7 +4,7 @@ title: Codeforces76F Tourist
 date: 2018-4-14 17:56
 categories: training
 tags: DP 二分
-img: assets/images/Blog/2018-4-14-Codeforces76F-Tourist.JPG
+img: https://vexoben.github.io/oi-blog/assets/images/Blog/2018-4-14-Codeforces76F-Tourist.JPG
 author: Vexoben
 ---
 
@@ -78,7 +78,7 @@ int main() {
 ```
 
 
-  [1]: assets/images/Blog/2018-4-14-Codeforces76F-Tourist%282%29.JPG
-  [2]: assets/images/Blog/2018-4-14-Codeforces76F-Tourist%283%29.JPG
-  [3]: assets/images/Blog/2018-4-14-Codeforces76F-Tourist%284%29.JPG
+  [1]: https://vexoben.github.io/oi-blog/assets/images/Blog/2018-4-14-Codeforces76F-Tourist%282%29.JPG
+  [2]: https://vexoben.github.io/oi-blog/assets/images/Blog/2018-4-14-Codeforces76F-Tourist%283%29.JPG
+  [3]: https://vexoben.github.io/oi-blog/assets/images/Blog/2018-4-14-Codeforces76F-Tourist%284%29.JPG
   [4]: http://codeforces.com/problemset/problem/76/F

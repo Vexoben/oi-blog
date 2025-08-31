@@ -4,7 +4,7 @@ title: Codeforces666E Forensic Examination
 date: 2018-05-09 18:51:30 +0800
 categories: training
 tags: 字符串 后缀自动机 数据结构 线段树及可持久化
-img: assets/images/Blog/2018-05-09-codeforces666e-forensic-examination.JPG
+img: https://vexoben.github.io/oi-blog/assets/images/Blog/2018-05-09-codeforces666e-forensic-examination.JPG
 ---
 
 题目链接：[http://codeforces.com/contest/666/problem/E][1]

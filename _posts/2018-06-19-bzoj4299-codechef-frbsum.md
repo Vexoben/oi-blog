@@ -4,7 +4,7 @@ title: BZOJ4299 Codechef FRBSUM
 date: 2018-06-19 10:26:41 +0800
 categories: training
 tags: 结论题 数据结构 线段树及可持久化
-img: assets/images/Blog/2018-06-19-bzoj4299-codechef-frbsum.JPG
+img: https://vexoben.github.io/oi-blog/assets/images/Blog/2018-06-19-bzoj4299-codechef-frbsum.JPG
 ---
 
 题目链接:[https://www.lydsy.com/JudgeOnline/problem.php?id=4299][1]

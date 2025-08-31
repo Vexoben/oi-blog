@@ -4,7 +4,7 @@ title: AtCoder Regular Contest 101
 date: 2018-08-30 14:28:01 +0800
 categories: contest
 tags: DP
-img: assets/images/Blog/2018-08-30-atcoder-regular-contest-101.JPG
+img: https://vexoben.github.io/oi-blog/assets/images/Blog/2018-08-30-atcoder-regular-contest-101.JPG
 ---
 
 很妙妙的题，但是网上没有完整题解非常不爽QAQ
@@ -252,7 +252,7 @@ int main() {
 
 ```
 
-[7]: assets/images/Blog/2018-08-30-atcoder-regular-contest-101(2).png
+[7]: https://vexoben.github.io/oi-blog/assets/images/Blog/2018-08-30-atcoder-regular-contest-101(2).png
 
 [8]: https://arc101.contest.atcoder.jp/tasks/arc101_c
 

@@ -4,7 +4,7 @@ title: Codeforces196C Paint Tree
 date: 2018-07-07 13:45:26 +0800
 categories: training
 tags: 计算几何 构造
-img: assets/images/Blog/2018-07-07-codeforces196c-paint-tree.JPG
+img: https://vexoben.github.io/oi-blog/assets/images/Blog/2018-07-07-codeforces196c-paint-tree.JPG
 ---
 
 题目链接:[http://codeforces.com/contest/196/problem/C][1]

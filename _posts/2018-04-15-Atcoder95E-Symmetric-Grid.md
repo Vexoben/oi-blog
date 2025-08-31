@@ -4,7 +4,7 @@ title: Atcoder95E Symmetric Grid
 date: 2018-04-15 19:13:03 +0800
 categories: training
 tags: 搜索 暴力
-img: assets/images/Blog/2018-04-15-Atcoder95E-Symmetric-Grid.JPG
+img: https://vexoben.github.io/oi-blog/assets/images/Blog/2018-04-15-Atcoder95E-Symmetric-Grid.JPG
 ---
 
 题目链接：[https://arc095.contest.atcoder.jp/tasks/arc095_c][1]
